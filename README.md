@@ -12,4 +12,3 @@
  <img align="center" alt="Math-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Math-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  
- ![snake gif](https://github.com/lucas123113/lucas123113/blob/output/github-contribution-grid-snake.svg)
